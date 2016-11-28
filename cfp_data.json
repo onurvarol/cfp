@@ -188,13 +188,23 @@
             }
         ]
     },
-    "acl2016":{
+    "acl2017":{
         "name": "ACL 2017",
         "url": "http://acl2017.org/calls/papers/",
         "deadlines":[
             {
                 "name": "Paper deadline",
                 "date": "2017-02-06 23:59 -10:00"
+            }
+        ]
+    },
+    "kdd2017":{
+        "name": "KDD 2017",
+        "url": "http://www.kdd.org/kdd2017/calls/view/kdd-2017-call-for-research-papers",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2017-02-17 23:59 -10:00"
             }
         ]
     }
