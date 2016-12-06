@@ -198,6 +198,16 @@
             }
         ]
     },
+    "ht2017":{
+        "name": "HyperText 2017",
+        "url": "https://ht.acm.org/ht2017/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2017-02-10 23:59 -10:00"
+            }
+        ]
+    },
     "kdd2017":{
         "name": "KDD 2017",
         "url": "http://www.kdd.org/kdd2017/calls/view/kdd-2017-call-for-research-papers",
