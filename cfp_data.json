@@ -218,6 +218,20 @@
             }
         ]
     },
+    "websci2017": {
+        "name": "WebScience 2017",
+        "url": "https://websci.tw.rpi.edu/Papers.html",
+        "deadlines": [
+            {
+                "name": "Abstract deadline",
+                "date": "2016-03-01 23:55 -08:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2016-03-08 23:55 -08:00"
+            }
+        ]
+    },
     "ccs2017":{
         "name": "CCS 2017",
         "url": "http://ccs17.unam.mx/",
