@@ -176,7 +176,9 @@
                 "name": "Paper deadline",
                 "date": "2017-01-13 23:59 -11:00",
             }
-        ]
+        ],
+        "attending": "Montreal, Canada (May 15-18, 2017)",
+        "keep_until": "2017-05-20 23:59 -10:00"
     },
     "netsci2017": {
         "name": "NetSci 2017",
