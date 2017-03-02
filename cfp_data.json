@@ -188,7 +188,9 @@
                 "name": "Abstract deadline",
                 "date": "2017-01-15 23:59 -11:00",
             }
-        ]
+        ],
+        "attending": "Indianapolis, US (June 21-23, 2017)",
+        "keep_until": "2017-06-25 23:59 -10:00"
     },
     "acl2017":{
         "name": "ACL 2017",
@@ -226,11 +228,11 @@
         "deadlines": [
             {
                 "name": "Abstract deadline",
-                "date": "2017-03-01 23:55 -08:00"
+                "date": "2017-03-08 23:55 -08:00"
             },
             {
                 "name": "Paper deadline",
-                "date": "2017-03-08 23:55 -08:00"
+                "date": "2017-03-16 23:55 -08:00"
             }
         ]
     },
