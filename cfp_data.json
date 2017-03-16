@@ -246,6 +246,16 @@
             }
         ]
     },
+    "hcomp2017":{
+        "name": "HCOMP 2017",
+        "url": "http://www.humancomputation.com/2017/submit.html",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2017-05-04 21:00 00:00"
+            }
+        ]
+    },
     "cikm2017":{
         "name": "CIKM 2017",
         "url": "http://cikm2017.org/",
