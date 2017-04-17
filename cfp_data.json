@@ -269,6 +269,16 @@
                 "date": "2017-05-23 23:59 -10:00"
             }
         ]
+    },
+    "socinfo2017":{
+        "name": "SocInfo 2017",
+        "url": "http://socinfo2017.oii.ox.ac.uk/#call-for-papers",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2017-05-31 23:59 -10:00"
+            }
+        ]
     }
 
 }
