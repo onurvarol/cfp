@@ -279,6 +279,19 @@
                 "date": "2017-05-31 23:59 -10:00"
             }
         ]
-    }
-
+    },
+    "wsdm2018":{
+        "name": "WSDM 2018",
+        "url": "http://www.wsdm-conference.org/2018/call-for-papers.html",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2017-08-04 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2017-08-11 23:59 -10:00"
+            }
+        ]
+    },
 }
