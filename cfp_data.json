@@ -294,4 +294,18 @@
             }
         ]
     },
+    "www2018":{
+        "name": "WWW 2018",
+        "url": "https://www2018.thewebconf.org/call-for-papers/research-tracks-cfp/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2017-10-26 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2017-10-31 23:59 -10:00"
+            }
+        ]
+    }
 }
