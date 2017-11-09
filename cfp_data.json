@@ -319,5 +319,19 @@
             }
         ],
         "notification": "2017-11-13 23:59 -00:00"
+    },
+    "ht2018":{
+        "name":"HyperText 2018",
+        "url": "https://ht.acm.org/ht2018/",
+        "deadlines":[
+            {
+                "name":"Abstract deadline",
+                "date":"2018-01-26 23:59 -10:00"
+            },
+            {
+                "name":"Paper deadline",
+                "date":"2018-02-02 23:59 -10:00"
+            }
+        ]
     }
 }
