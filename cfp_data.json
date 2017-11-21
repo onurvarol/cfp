@@ -344,5 +344,15 @@
                 "date":"2018-02-02 23:59 -10:00"
             }
         ]
+    },
+    "iccss2018":{
+        "name":"ICCSS 2018",
+        "url": "http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2018.aspx",
+        "deadlines":[
+            {
+                "name":"Abstract deadline",
+                "date":"2018-02-04 23:59 -10:00"
+            }
+        ]
     }
 }
