@@ -321,6 +321,16 @@
         "attending": "Boston, MA (March 5-8, 2018)",
         "keep_until": "2018-03-10 23:59 -10:00"
     },
+    "netsci2018":{
+        "name":"NetSci 2018",
+        "url": "https://www.netsci2018.com",
+        "deadlines":[
+            {
+                "name":"Abstract deadline",
+                "date":"2018-01-15 23:59 -10:00"
+            }
+        ]
+    },
     "ht2018":{
         "name":"HyperText 2018",
         "url": "https://ht.acm.org/ht2018/",
