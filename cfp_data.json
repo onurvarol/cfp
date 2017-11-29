@@ -354,5 +354,15 @@
                 "date":"2018-02-04 23:59 -10:00"
             }
         ]
+    },
+    "kdd2018":{
+        "name":"KDD 2018",
+        "url": "http://www.kdd.org/kdd2018/",
+        "deadlines":[
+            {
+                "name":"Paper deadline",
+                "date":"2018-02-11 23:59 -10:00"
+            }
+        ]
     }
 }
