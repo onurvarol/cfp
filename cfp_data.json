@@ -331,6 +331,21 @@
             }
         ]
     },
+    "icwsm2018":{
+        "name":"ICWSM 2018",
+        "url": "http://www.icwsm.org/2018/",
+        "deadlines":[
+            {
+                "name":"Abstract deadline",
+                "date":"2018-01-19 23:59 -10:00"
+            },
+            {
+                "name":"Paper deadline",
+                "date":"2018-01-25 23:59 -10:00"
+            }
+            
+        ]
+    },
     "ht2018":{
         "name":"HyperText 2018",
         "url": "https://ht.acm.org/ht2018/",
