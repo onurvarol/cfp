@@ -379,5 +379,19 @@
                 "date":"2018-02-11 23:59 -10:00"
             }
         ]
+    },
+    "hcomp2018":{
+        "name":"HCOMP 2018",
+        "url": "https://www.humancomputation.com/2018/",
+        "deadlines":[
+            {
+                "name":"Abstract deadline",
+                "date":"2018-02-19 23:59 -10:00"
+            },
+            {
+                "name":"Paper deadline",
+                "date":"2018-02-23 23:59 -10:00"
+            }
+        ]
     }
 }
