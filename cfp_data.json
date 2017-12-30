@@ -407,6 +407,16 @@
             }
         ]
     },
+    "socinfo2018":{
+        "name": "SocInfo 2018",
+        "url": "",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2018-05-09 23:59 -10:00"
+            }
+        ]
+    },
     "cikm2018":{
         "name":"CIKM 2018",
         "url": "http://www2.units.it/cikm2018/",
