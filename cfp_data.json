@@ -440,5 +440,19 @@
                 "date":"2018-05-22 23:59 -10:00"
             }
         ]
+    },
+    "icwsm2019":{
+        "name": "ICWSM 2019",
+        "url": "https://icwsm.org/2019/submitting/call-for-papers/",
+        "deadlines":[
+            {
+                "name": "1st deadline",
+                "date": "2018-09-15 23:59 -10:00"
+            },
+            {
+                "name": "2nd deadline",
+                "date": "2019-01-15 23:59 -10:00"
+            }
+        ]
     }
 }
