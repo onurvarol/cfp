@@ -441,6 +441,20 @@
             }
         ]
     },
+    "web2019":{
+        "name": "WEB 2019",
+        "url": "https://www2019.thewebconf.org/call-for-papers",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2018-10-29 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2019-11-05 23:59 -10:00"
+            }
+        ]
+    },
     "icwsm2019":{
         "name": "ICWSM 2019",
         "url": "https://icwsm.org/2019/submitting/call-for-papers/",
