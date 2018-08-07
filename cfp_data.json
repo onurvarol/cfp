@@ -441,6 +441,20 @@
             }
         ]
     },
+    "fat2019":{
+        "name": "FAT* 2019",
+        "url": "https://fatconference.org/2019/cfp.html",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2018-08-16 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2018-08-23 23:59 -10:00"
+            }
+        ]
+    },
     "web2019":{
         "name": "WEB 2019",
         "url": "https://www2019.thewebconf.org/call-for-papers",
