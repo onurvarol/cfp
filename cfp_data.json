@@ -482,5 +482,15 @@
                 "date": "2019-01-15 23:59 -10:00"
             }
         ]
+    },
+    "netsci2019":{
+        "name": "NetSci 2019",
+        "url": "http://vermontcomplexsystems.org/events/netsci/calls/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2018-12-11 23:59 -10:00"
+            }
+        ]
     }
 }
