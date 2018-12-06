@@ -502,5 +502,15 @@
                 "date": "2019-02-03 23:59 -10:00"
             }
         ]
+    },
+    "iccss2019":{
+        "name": "IC2S2 2019",
+        "url": "https://2019.ic2s2.org/call-for-papers/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2019-02-04 23:59 -10:00"
+            }
+        ]
     }
 }
