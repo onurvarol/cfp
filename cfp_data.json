@@ -526,5 +526,19 @@
                 "date": "2019-02-11 23:59 -10:00"
             }
         ]
+    },
+    "ijcai2019":{
+        "name": "IJCAI 2019",
+        "url": "https://ijcai19.org/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2019-02-19 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2019-02-25 23:59 -10:00"
+            }
+        ]
     }
 }
