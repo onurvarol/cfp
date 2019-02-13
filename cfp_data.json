@@ -540,5 +540,15 @@
                 "date": "2019-02-25 23:59 -10:00"
             }
         ]
+    },
+    "asonam2019":{
+        "name": "ASONAM 2019",
+        "url": "http://asonam.cpsc.ucalgary.ca/2019/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-04-17 23:59 -10:00"
+            }
+        ]
     }
 }
