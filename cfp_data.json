@@ -550,5 +550,19 @@
                 "date": "2019-04-17 23:59 -10:00"
             }
         ]
+    },
+    "recsys2019":{
+        "name": "RecSys 2019",
+        "url": "https://recsys.acm.org/recsys19/dates/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2019-04-15 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2019-04-23 23:59 -10:00"
+            }
+        ]
     }
 }
