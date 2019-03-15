@@ -491,7 +491,9 @@
                 "name": "Abstract deadline",
                 "date": "2019-01-10 23:59 -10:00"
             }
-        ]
+        ],
+        "attending": "Vermont, USA (May 27-31, 2019)",
+        "keep_until": "2019-06-01 23:59 -10:00"
     },
     "kdd2019":{
         "name": "KDD 2019",
