@@ -566,5 +566,15 @@
                 "date": "2019-04-23 23:59 -10:00"
             }
         ]
+    },
+    "dsaa2019":{
+        "name": "DSAA 2019",
+        "url": "http://dsaa2019.dsaa.co/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-05-09 23:59 -10:00"
+            }
+        ]
     }
 }
