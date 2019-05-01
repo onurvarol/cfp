@@ -576,5 +576,19 @@
                 "date": "2019-05-09 23:59 -10:00"
             }
         ]
+    },
+    "cikm2019":{
+        "name": "CIKM 2019",
+        "url": "http://www.cikm2019.net/callforpapers.html",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-05-15 23:59 -10:00"
+            },
+            {
+                "name": "Paper deadline",
+                "date": "2019-05-22 23:59 -10:00"
+            }
+        ]
     }
 }
