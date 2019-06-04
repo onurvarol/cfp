@@ -614,5 +614,15 @@
                 "date": "2019-06-05 23:59 -10:00"
             }
         ]
+    },
+    "bigdata2019":{
+        "name": "BigData 2019",
+        "url": "http://bigdataieee.org/BigData2019/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-08-19 23:59 -10:00"
+            }
+        ]
     }
 }
