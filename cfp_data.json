@@ -615,6 +615,18 @@
             }
         ]
     },
+    "pacss2019":{
+        "name": "PaCSS 2019",
+        "url": "https://mccourt.georgetown.edu/pacss",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-06-10 23:59 -10:00"
+            }
+        ],
+        "attending": "Washington DC, USA (Aug 28, 2019)",
+        "keep_until": "2019-09-01 23:59 -10:00"
+    },
     "bigdata2019":{
         "name": "BigData 2019",
         "url": "http://bigdataieee.org/BigData2019/",
