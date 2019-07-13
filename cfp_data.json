@@ -627,6 +627,16 @@
         "attending": "Washington DC, USA (Aug 28, 2019)",
         "keep_until": "2019-09-01 23:59 -10:00"
     },
+    "wsdm2020":{
+        "name": "WSDM 2020",
+        "url": "http://www.wsdm-conference.org/2020/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2019-08-12 23:59 -10:00"
+            }
+        ]
+    },
     "bigdata2019":{
         "name": "BigData 2019",
         "url": "http://bigdataieee.org/BigData2019/",
