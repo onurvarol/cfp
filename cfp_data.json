@@ -661,6 +661,20 @@
             }
         ]
     },
+    "icwsm2020":{
+        "name": "ICWSM 2020",
+        "url": "https://icwsm.org/2020/",
+        "deadlines":[
+            {
+                "name": "2nd deadline",
+                "date": "2019-09-15 23:59 -10:00"
+            },
+            {
+                "name": "3rd deadline",
+                "date": "2020-01-15 23:59 -10:00"
+            }
+        ]
+    },
     "netscix2020":{
         "name": "NetSciX 2020",
         "url": "https://netscix2020tokyo.github.io/",
