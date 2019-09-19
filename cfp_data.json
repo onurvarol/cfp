@@ -684,5 +684,15 @@
                 "date": "2019-09-30 23:59 -10:00"
             }
         ]
+    },
+    "cj2020":{
+        "name": "Computation+Journalism 2020",
+        "url": "https://cj2020.northeastern.edu",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2019-12-13 23:59 -10:00"
+            }
+        ]
     }
 }
