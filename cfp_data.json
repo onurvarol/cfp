@@ -694,5 +694,35 @@
                 "date": "2019-12-13 23:59 -10:00"
             }
         ]
+    },
+    "kdd2020":{
+        "name": "KDD 2020",
+        "url": "https://www.kdd.org/kdd2020/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2020-02-13 23:59 -10:00"
+            }
+        ]
+    },
+    "netsci2020":{
+        "name": "NetSci 2020",
+        "url": "http://netsci2020.netscisociety.net/",
+        "deadlines":[
+            {
+                "name": "Abstract deadline",
+                "date": "2020-02-14 23:59 -10:00"
+            }
+        ]
+    },
+    "coling2020":{
+        "name": "COLING 2020",
+        "url": "https://coling2020.org/pages/call_for_papers",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2020-04-08 23:59 -10:00"
+            }
+        ]
     }
 }
