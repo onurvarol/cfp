@@ -710,6 +710,16 @@
         "url": "http://netsci2020.netscisociety.net/",
         "deadlines":[
             {
+                "name": "Paper deadline",
+                "date": "2020-02-21 23:59 -10:00"
+            }
+        ]
+    },
+    "sbpbrims2020":{
+        "name": "SBP-BRIMS 2020",
+        "url": "http://sbp-brims.org/2020/",
+        "deadlines":[
+            {
                 "name": "Abstract deadline",
                 "date": "2020-02-14 23:59 -10:00"
             }
