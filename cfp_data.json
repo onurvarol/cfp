@@ -734,5 +734,15 @@
                 "date": "2020-04-08 23:59 -10:00"
             }
         ]
+    },
+    "wsdm2021":{
+        "name": "WSDM 2021",
+        "url": "http://www.wsdm-conference.org/2021/",
+        "deadlines":[
+            {
+                "name": "Paper deadline",
+                "date": "2020-08-16 23:59 -10:00"
+            }
+        ]
     }
 }
